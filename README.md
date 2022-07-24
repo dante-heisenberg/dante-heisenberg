@@ -1,11 +1,3 @@
-<style>
-
-  img {
-    width:200px;
-  }
-
-</style>
-
 <h1>Dante Heisenberg</h1>
 
 <p>My name is <b>Dante</b>, I' m from Indonesia. You can also call me Dante.<br>
@@ -30,15 +22,15 @@ Oh I think my skill is sleep of my life. Even though my skills are only sleeping
   <li>Front-end Skill:
     <ul>
       <li>HTML</li>>
-      <img src="/img/html.png" alt="html">
+      <img src="/img/html.png"  style="width:100px;" alt="html">
       <li>CSS</li>
-      <img src="/img/css.png" alt="css">
+      <img src="/img/css.png"  style="width:100px;" alt="css">
       <li>JAVASCRIPT(BASIC)</li>
-      <img src="/img/js.png" alt="JavasScript">
+      <img src="/img/js.png"  style="width:100px;" alt="JavasScript">
       <li>TailwindCss</li>
-      <img src="/img/tailwind.png" alt="TailwindCss">
+      <img src="/img/tailwind.png"  style="width:100px;" alt="TailwindCss">
       <li>Boostrap</li>
-        <img src="/img/boostrap.png" alt="Boostrap">
+        <img src="/img/boostrap.png"  style="width:100px;" alt="Boostrap">
     </ul>
   </li>
   <li>Back-end Skill: 
