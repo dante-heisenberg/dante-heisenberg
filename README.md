@@ -42,16 +42,16 @@ Oh I think my skill is sleep of my life. Even though my skills are only sleeping
 <h2>Contact Me</h2>
 <ul>
   <li>
-    <img src="/img/fb.png" style="width:60px;" alt="facebook">
+    <img src="/img/fb.png" style="width:30px;" alt="facebook">
     <a href="https://web.facebook.com/muhamad.awowkwowk/">: Рискованный Мухаммад</a>
   </li>
   <li>
-    <img src="/img/ig.png" style="width:60px;" alt="instagram">
+    <img src="/img/ig.png" style="width:30px;" alt="instagram">
     <a href="https://www.instagram.com/riskymuhamad352/">: @riskymuhamad352</a>
   </li>
   <li>
-    <img src="/img/gmail.png" style="width:60px;" alt="facebook">
-    <p>: riskymuhamad352@gmail.com</p>
+    <img src="/img/gmail.png" style="width:25px;" alt="facebook">
+    <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=CllgCJvqKcscVCbGTpLXcKpZrVbHljRZtpsBCzVDQSWnCCqXQKKTpzrTwMckHVKpGWkNkqrSVcg">: riskymuhamad352@gmail.com</a>
   </li>
 </ul>
 <br><br>
