@@ -20,7 +20,7 @@ Oh I think my skill is sleep of my life. Even though my skills are only sleeping
       </ul>
   </li>
   <li>Front-end Skill:
-    <ul>
+    <ul style="display:flex; justify-content:justify-evenly;">
       <li>HTML</li>>
       <img src="/img/html.png"  style="width:100px;" alt="html">
       <li>CSS</li>
