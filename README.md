@@ -21,23 +21,26 @@ Oh I think my skill is sleep of my life. Even though my skills are only sleeping
   </li>
   <li>Front-end Skill:
     <ul>
-      <li>
-        <img src="/img/html.png" alt="html">
-      </li>
       <li>HTML</li>
       <li>
-        <img src="" alt="">
+        <img src="/img/html.png" styel="width:150px; list-style:none;" alt="html">
       </li>
       <li>CSS</li>
+      <li>
+        <img src="/img/css.png" style="width:150px; list-style:none;" alt="css">
+      </li>
       <li>JAVASCRIPT(BASIC)</li>
       <li>
-        <img src="" alt="">
+        <img src="/img/js.png" style="width:150px; list-style:none;" alt="JavasScript">
       </li>
       <li>TailwindCss</li>
       <li>
-        <img src="" alt="">
+        <img src="/img/tailwind.png" style="width:150px; list-style:none;" alt="TailwindCss">
       </li>
       <li>Boostrap</li>
+      <li>
+        <img src="/img/boostrap.png" style="width:150px; list-style:none;" alt="Boostrap">
+      </li>
     </ul>
   </li>
   <li>Back-end Skill: 
