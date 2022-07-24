@@ -21,8 +21,8 @@ Oh I think my skill is sleep of my life. Even though my skills are only sleeping
   </li>
   <li>Front-end Skill:
     <ul style="display:flex; justify-content:justify-evenly;">
-      <li>HTML, CSS, JAVASCRIPT(BASIC), TailwindCss, Boostrap</li>
-      <img src="/img/html.png"  style="width:80px; border:1px solid gold;" alt="html">
+      <li><code>HTML</code>, <code>CSS</code>, <code>JAVASCRIPT(BASIC)</code>, <code>TailwindCss</code>, <code>Boostrap</code></li>
+      <img src="/img/html.png"  style="width:80px;" alt="html">
       <img src="/img/css.png"  style="width:80px;" alt="css">
       <img src="/img/js.png"  style="width:60px;" alt="JavasScript">
       <img src="/img/tailwind.png"  style="width:80px;" alt="TailwindCss">
@@ -31,7 +31,7 @@ Oh I think my skill is sleep of my life. Even though my skills are only sleeping
   </li>
   <li>Back-end Skill: 
     <ul>
-      <li>GO(BASIC), PYTHON(BASIC), PHP(BASIC)</li>
+      <li><code>GO(BASIC)</code>, <code>PYTHON(BASIC)</code>, <code>PHP(BASIC)</code></li>
       <img src="/img/go.png" style="width:100px;" alt="go">
       <img src="/img/python.png" style="width:100px;" alt="python">
       <img src="/img/php.png" style="width:100px;" alt="php">
@@ -40,6 +40,23 @@ Oh I think my skill is sleep of my life. Even though my skills are only sleeping
 </ul>
 <br><br>
 <h2>Contact Me</h2>
+<ul>
+  <li>
+    <img src="/img/fb.png" style="width:60px;" alt="facebook">
+    <a href="https://web.facebook.com/muhamad.awowkwowk/">: Рискованный Мухаммад</a>
+  </li>
+  <li>
+    <img src="/img/ig.png" style="width:60px;" alt="instagram">
+    <a href="https://www.instagram.com/riskymuhamad352/">: @riskymuhamad352</a>
+  </li>
+  <li>
+    <img src="/img/gmail.png" style="width:60px;" alt="facebook">
+    <p>: riskymuhamad352@gmail.com</p>
+  </li>
+</ul>
+<br><br>
+
+<h2>My Achievement</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dante-heisenberg&show_icons=true&theme=radical)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dante-heisenberg&repo=css-3)](https://github.com/anuraghazra/github-readme-stats)
+
