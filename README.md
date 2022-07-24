@@ -1,3 +1,11 @@
+<style>
+
+  img {
+    width:200px;
+  }
+
+</style>
+
 <h1>Dante Heisenberg</h1>
 
 <p>My name is <b>Dante</b>, I' m from Indonesia. You can also call me Dante.<br>
@@ -21,26 +29,16 @@ Oh I think my skill is sleep of my life. Even though my skills are only sleeping
   </li>
   <li>Front-end Skill:
     <ul>
-      <li>HTML</li>
-      <li>
-        <img src="/img/html.png" styel="width:150px; list-style:none;" alt="html">
-      </li>
+      <li>HTML</li>>
+      <img src="/img/html.png" alt="html">
       <li>CSS</li>
-      <li>
-        <img src="/img/css.png" style="width:150px; list-style:none;" alt="css">
-      </li>
+      <img src="/img/css.png" alt="css">
       <li>JAVASCRIPT(BASIC)</li>
-      <li>
-        <img src="/img/js.png" style="width:150px; list-style:none;" alt="JavasScript">
-      </li>
+      <img src="/img/js.png" alt="JavasScript">
       <li>TailwindCss</li>
-      <li>
-        <img src="/img/tailwind.png" style="width:150px; list-style:none;" alt="TailwindCss">
-      </li>
+      <img src="/img/tailwind.png" alt="TailwindCss">
       <li>Boostrap</li>
-      <li>
-        <img src="/img/boostrap.png" style="width:150px; list-style:none;" alt="Boostrap">
-      </li>
+        <img src="/img/boostrap.png" alt="Boostrap">
     </ul>
   </li>
   <li>Back-end Skill: 
