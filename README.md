@@ -5,7 +5,13 @@ Oh I think my skill is sleep of my life. Even though my skills are only sleeping
 </p>
 <h2>About Me</h2>
 <ul>
-  <li>Hobbies: Playing Games, Fishing, Miniature Towns</li>
+  <li>Hobbies:
+    <ul>
+        <li>Playing Games</li>
+        <li>Fishing</li>
+        <li>Miniature Towns</li>
+    </ul>
+  </li>
   <li>Favorite food:
       <ul>
         <li>Nasi Goreng</li>
@@ -15,17 +21,38 @@ Oh I think my skill is sleep of my life. Even though my skills are only sleeping
   </li>
   <li>Front-end Skill:
     <ul>
+      <li>
+        <img src="/img/html.png" alt="html">
+      </li>
       <li>HTML</li>
+      <li>
+        <img src="" alt="">
+      </li>
       <li>CSS</li>
       <li>JAVASCRIPT(BASIC)</li>
+      <li>
+        <img src="" alt="">
+      </li>
       <li>TailwindCss</li>
+      <li>
+        <img src="" alt="">
+      </li>
       <li>Boostrap</li>
     </ul>
   </li>
   <li>Back-end Skill: 
     <ul>
+      <li>
+        <img src="" alt="">
+      </li>
       <li>GO(BASIC)</li>
+      <li>
+        <img src="" alt="">
+      </li>
       <li>PYTHON(BASIC)</li>
+      <li>
+        <img src="" alt="">
+      </li>
       <li>PHP(BASIC)</li>
     </ul>
   </li>
