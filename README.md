@@ -4,7 +4,6 @@
 > Sups, <strong>Dante</strong> here :exploding_head::exploding_head:.Never update anything new on my <strong>Github account</strong> for a long time.And this is for my first commit on my special repo. Change a little bit appearance on my <strong><em>Special Repositori</em></strong>.like <strong>profile picture</strong>, <strong>nickname</strong>, <strong>location</strong>, and etc.
 
 ## About me
-![profile picture](https://i.pinimg.com/564x/ba/96/fb/ba96fbc26dc32948fd6af403ec99102f.jpg)
 > [!important]
 > If you don't know about me either.**Let me introduce my self 🗣🗣**.
 
