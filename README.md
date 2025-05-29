@@ -4,7 +4,7 @@
 
 --> <a href="https://dante-heisenberg.github.io/">See me more</a> <--
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dante-heisenberg&layout=compact)
 
 ## Contact
 **Email:**
